@@ -1,7 +1,7 @@
 # Railway_Infrastructure
 ## Building a mini railroad map with locomotive movements between stations
 ### Table of contents
-* Programming language: Java
+* Programming language: Java 
 * Learned lesson: Use of proper OOP structure
 * Purpose: Create a console visualised railroad map
 ### Features
