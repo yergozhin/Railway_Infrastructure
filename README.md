@@ -1,6 +1,6 @@
 # Train Simulation Project
 
-&nbsp;Welcome to the Train Simulation Project repository! This project is designed to showcase Object-Oriented Programming (OOP) principles by simulating various aspects of train 
+&emsp;Welcome to the Train Simulation Project repository! This project is designed to showcase Object-Oriented Programming (OOP) principles by simulating various aspects of train 
 operations. It includes classes for stations, connections, locomotives, trainsets, and different types of railroad cars. Additionally, the project demonstrates functionalities of 
 different railroad car types and includes a train scheduling and simulation system.
 
