@@ -5,10 +5,10 @@ operations. It includes classes for stations, connections, locomotives, trainset
 different railroad car types and includes a train scheduling and simulation system.
 
 ## Introduction
-* The Train Simulation Project is focused on simulating train operations using OOP principles. It aims to provide a comprehensive example of how different components of a train system can be represented and interact within a Java application.
+The Train Simulation Project is focused on simulating train operations using OOP principles. It aims to provide a comprehensive example of how different components of a train system can be represented and interact within a Java application.
 
 ### Creating Stations
-* The project allows for the creation of train stations, with the ability to establish connections between them. These stations serve as the basis for creating a network of connections within the simulation.
+- The project allows for the creation of train stations, with the ability to establish connections between them. These stations serve as the basis for creating a network of connections within the simulation.
 
 ### Train Components
 The simulation includes various components such as locomotives, trainsets, and different types of railroad cars. These elements are designed to mimic real-world train configurations, offering a diverse and realistic simulation experience.
