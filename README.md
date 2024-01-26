@@ -11,7 +11,7 @@ The Train Simulation Project is focused on simulating train operations using OOP
 - The project allows for the creation of train stations, with the ability to establish connections between them. These stations serve as the basis for creating a network of connections within the simulation.
 
 ### Train Components
-The simulation includes various components such as locomotives, trainsets, and different types of railroad cars. These elements are designed to mimic real-world train configurations, offering a diverse and realistic simulation experience.
+- The simulation includes various components such as locomotives, trainsets, and different types of railroad cars. These elements are designed to mimic real-world train configurations, offering a diverse and realistic simulation experience.
 
 ### Functionality Examples
 The project showcases the functionalities of different railroad car types. From refrigerated cars with temperature control to passenger cars with seating adjustments and restaurant cars with menu options, the simulation provides a detailed representation of the capabilities of each component.
