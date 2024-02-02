@@ -23,5 +23,7 @@ The Train Simulation Project is focused on simulating train operations using OOP
 - For added convenience and scalability, the project includes functionalities to generate additional data. This includes the creation of multiple stations, trainsets, connections between stations, and paths for locomotives, contributing to a more extensive and diverse simulation.
 
 
-https://github.com/yergozhin/Railway_Infrastructure/assets/101567490/e86ad81e-f1a0-4bb1-a362-b38b834f972e
+https://github.com/yergozhin/Railway_Infrastructure/assets/101567490/ac5c554a-7787-4ffe-a1f5-fd5df779201b
+
+
 
