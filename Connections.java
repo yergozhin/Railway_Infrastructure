@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
-
+ 
 public class Connections {
     List<Triplet> list;
     public Connections(){
