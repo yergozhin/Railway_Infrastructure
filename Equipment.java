@@ -6,5 +6,5 @@ public class Equipment {
         this.weight = weight;
         ID = count;
         count++;
-    }
+    } 
 }
