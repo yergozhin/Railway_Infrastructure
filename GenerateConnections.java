@@ -1,4 +1,4 @@
-import java.util.List;
+import java.util.List; 
 
 public class GenerateConnections {
     public GenerateConnections(int numberOfConnectionsForEachStation, List<Station> station, Connections connections){
