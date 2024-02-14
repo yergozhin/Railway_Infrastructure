@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
-
+ 
 public class Locomotive {
     public int maxRC;
     public double maxWeight;
