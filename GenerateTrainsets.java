@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class GenerateTrainsets {
+public class GenerateTrainsets { 
     List<Trainset> trainsets;
     public GenerateTrainsets(int numberOfTrainsets,List<Station> stations){
         trainsets = new ArrayList<>();
