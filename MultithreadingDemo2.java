@@ -7,7 +7,7 @@ import java.util.Map;
 
 public class MultithreadingDemo2 extends Thread{
     List<Trainset> list;
-    Connections connection;
+    Connections connection; 
     FileWriter file;
     public MultithreadingDemo2(List<Trainset> list,Connections connection,FileWriter file){
         this.list = list;
