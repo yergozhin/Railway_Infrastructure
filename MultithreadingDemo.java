@@ -1,4 +1,4 @@
-class MultithreadingDemo extends Thread {
+class MultithreadingDemo extends Thread { 
     Double speed;
     Trainset trainset;
     List<Stations> stations;
