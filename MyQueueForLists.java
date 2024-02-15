@@ -6,7 +6,7 @@ public class MyQueueForLists {
     }
     private MyQueueForLists.Node head, tail;
     public MyQueueForLists() {
-        head = tail = null;
+        head = tail = null; 
     }
     public void enqueue(PairForListAndLoco s) {
         if (head == null)
