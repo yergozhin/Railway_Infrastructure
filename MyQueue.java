@@ -14,7 +14,7 @@ public class MyQueue {
         else
             tail = tail.next = new Node(s);
     }
-    public Pair dequeue() {
+    public Pair dequeue() { 
         Pair s = head.pair;
         if ((head = head.next) == null) tail = null;
         return s;
