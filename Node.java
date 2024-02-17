@@ -4,7 +4,7 @@ public class Node {
     Node(RailroadCar railroadCar, Node next) {
         this.railroadCar = railroadCar;
         this.next = next;
-    }
+    } 
     Node(RailroadCar railroadCar) {
         this(railroadCar,null);
     }
