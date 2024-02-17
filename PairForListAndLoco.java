@@ -3,7 +3,7 @@ import java.util.List;
 public class PairForListAndLoco {
     Trainset trainset;
     List<Station> list;
-    int i;
+    int i; 
     boolean forward;
     double distance;
     public PairForListAndLoco(Trainset trainset, List<Station> list, int i, boolean forward,double distance){
