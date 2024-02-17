@@ -6,5 +6,5 @@ public class Pair{
     public Pair(Station station, List<Station> list){
         this.station = station;
         this.list = list;
-    }
+    } 
 }
