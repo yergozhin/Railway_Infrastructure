@@ -4,7 +4,7 @@ public class RCBaggage extends RailroadCar {
     double maxTotalVolume;
     double curTotalWeight;
     double curTotalVolume;
-    String name = "Baggage";
+    String name = "Baggage"; 
     int ID;
     public RCBaggage(double maxTotalWeight, double maxTotalVolume){
         super();
