@@ -3,7 +3,7 @@ public abstract class RCHeavyFreight extends RailroadCar{
     double maxTotalVolume;
     ElectricalGrid electricalGrid;
     String name = "Heavy Freight";
-    int ID;
+    int ID; 
     String securityInfo;
     public RCHeavyFreight(double maxTotalWeight, double maxTotalVolume,String securityInfo){
         super();
