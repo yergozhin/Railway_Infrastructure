@@ -3,7 +3,7 @@ public class RCExplosives extends RCHeavyFreight{
     double curTotalVolume;
     ElectricalGrid electricalGrid;
     String name = "Explosives";
-    int ID;
+    int ID; 
     public RCExplosives(double maxTotalWeight, double maxTotalVolume,String securityInfo){
         super(maxTotalWeight,maxTotalVolume,securityInfo);
         this.ID = ID;
