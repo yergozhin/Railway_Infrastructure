@@ -3,7 +3,7 @@ public class RCGaseous extends RCBasicFreight{
     double curTotalVolume;
     double curTotalWeight;
     String name = "Gaseous";
-    int ID;
+    int ID; 
     public RCGaseous(double maxTotalWeight, double maxTotalVolume){
         super(maxTotalWeight,maxTotalVolume);
         this.ID = ID;
