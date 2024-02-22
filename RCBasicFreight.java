@@ -2,7 +2,7 @@ public abstract class RCBasicFreight extends RailroadCar{
     double maxTotalWeight;
     double maxTotalVolume;
     ElectricalGrid electricalGrid;
-    String name;
+    String name; 
     int ID;
     public RCBasicFreight(double maxTotalWeight, double maxTotalVolume){
         super();
