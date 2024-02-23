@@ -3,7 +3,7 @@ import java.util.Map;
 
 public class RCPassenger extends RailroadCar{
     Map<Person,Equipment> map = new HashMap<>();
-    int numOfSeats;
+    int numOfSeats; 
     double maxEqWeight;
     int numOfLamps;
     ElectricalGrid electricalGrid;
