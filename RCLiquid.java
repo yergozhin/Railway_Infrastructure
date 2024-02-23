@@ -2,7 +2,7 @@ public class RCLiquid extends RCBasicFreight{
     ElectricalGrid electricalGrid;
     double curTotalVolume;
     double curTotalWeight;
-    int ID;
+    int ID; 
     String name = "Liquid";
     public RCLiquid(double maxTotalWeight, double maxTotalVolume){
         super(maxTotalWeight,maxTotalVolume);
