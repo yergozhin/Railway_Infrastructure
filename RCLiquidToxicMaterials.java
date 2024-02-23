@@ -4,7 +4,7 @@ public class RCLiquidToxicMaterials extends RCHeavyFreight{
     double curTotalWeight;
     String securityInfo;
     String name = "Liquid Toxic Materials";
-    int ID;
+    int ID; 
     public RCLiquidToxicMaterials(double maxTotalWeight, double maxTotalVolume,String securityInfo){
         super(maxTotalWeight,maxTotalVolume,securityInfo);
         this.ID = ID;
