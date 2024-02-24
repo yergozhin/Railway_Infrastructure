@@ -3,7 +3,7 @@ public class RCPostOffice extends RailroadCar{
     double maxTotalWeightOfMails;
     ElectricalGrid electricalGrid;
     String name = "Post Office";
-    int ID;
+    int ID; 
     public RCPostOffice(int numOfMailboxes, double maxTotalWeightOfMails){
         super();
         this.numOfMailboxes = numOfMailboxes;
