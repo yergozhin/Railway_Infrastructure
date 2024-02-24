@@ -3,7 +3,7 @@ public class RCRefrigerated extends RCBasicFreight{
     ElectricalGrid electricalGrid;
     double curTotalVolume;
     double curTotalWeight;
-    int ID;
+    int ID; 
     boolean cling = false;
     boolean hting = false;
     String name;
