@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class RCRestaurant extends RailroadCar{
     int numOfTables;
-    int numOfRefrigerators;
+    int numOfRefrigerators; 
     double maxEqWeight;
     ElectricalGrid electricalGrid;
     String name;
