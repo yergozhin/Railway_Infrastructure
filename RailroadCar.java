@@ -5,7 +5,7 @@ public class RailroadCar {
     //String name = "Common";
     int ID;
     public RailroadCar(){
-        count++;
+        count++; 
         this.ID = count;
         weight = 0;
         this.electricalGrid = new ElectricalGrid(false);
