@@ -8,7 +8,7 @@ public class Station {
     static List<Station> stations = new ArrayList<>();
     public Station(String name){
         this.name = name;
-        this.ID = index;
+        this.ID = index; 
         index++;
     };
 }
